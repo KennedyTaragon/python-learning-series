@@ -7,11 +7,6 @@ Each folder includes example scripts and exercises for hands-on practice and dee
 Example folder organization (will grow as learning progresses):
 
 
-## Topics Covered (So Far)
-- Python Syntax  
-- Variables and Data Types  
-- Control Flow  
-- Functions  
 
 ## Goal
 To gradually build a complete collection of Python examples and exercises as I learn the language step by step.
